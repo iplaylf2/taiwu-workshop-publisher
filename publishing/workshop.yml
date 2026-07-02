@@ -1,2 +1,9 @@
-repository: ""
-mods: {}
+repository: "Wanxiang-Sanctum/community-taiwu-mods"
+mods:
+  Guanxiangtai:
+    fileId: 3755613381
+    tag: mods/Wanxiang.Guanxiangtai/v0.1.0
+
+  Xiangshu:
+    fileId: 3747795330
+    tag: mods/Wanxiang.Xiangshu/v0.1.0
